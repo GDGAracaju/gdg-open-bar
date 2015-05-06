@@ -20,3 +20,4 @@
  - https://jobs.github.com/positions?description=&location=remote
  - https://github.com/DyegoCosta/trabalhando-remoto
  - https://github.com/erichideki/mesadebar/issues/5
+ - https://medium.com/@nomadenaweb/trabalhe-remoto-e-seja-pago-bem-pago-61655583cf7b
