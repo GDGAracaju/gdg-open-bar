@@ -4,7 +4,9 @@
 ### Tópicos:
  - Internet encurta distâncias
  - Comunicação é fundamental
+ - Seja sociável
  - Foco ao trabalhar fora do "escritório"
+ - Rotina flexível
  - "Disciplina é liberdade"
  
 ### Perguntas
