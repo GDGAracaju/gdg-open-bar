@@ -21,3 +21,4 @@
  - https://github.com/DyegoCosta/trabalhando-remoto
  - https://github.com/erichideki/mesadebar/issues/5
  - https://medium.com/@nomadenaweb/trabalhe-remoto-e-seja-pago-bem-pago-61655583cf7b
+ - https://medium.com/brasil/6-dicas-para-se-dar-bem-em-freelas-e-trabalhos-remotos-76d2cccc0159
