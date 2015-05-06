@@ -16,5 +16,5 @@
  - Seguir carreira fora do país, viável? Quais são os países que mais contratam? Qual área do desenvolvimento é mais requisitada? Como se preparar?
 
 ### Links:
- - 
- -
+ - https://github.com/nomadsonrails/guia-do-trabalho-remoto
+ - https://jobs.github.com/positions?description=&location=remote
