@@ -19,3 +19,4 @@
  - https://github.com/nomadsonrails/guia-do-trabalho-remoto
  - https://jobs.github.com/positions?description=&location=remote
  - https://github.com/DyegoCosta/trabalhando-remoto
+ - https://github.com/erichideki/mesadebar/issues/5
