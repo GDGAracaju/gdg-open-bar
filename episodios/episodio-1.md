@@ -2,9 +2,10 @@
 ## Trabalho remoto ou no exterior
 
 ### Tópicos:
- - 
- - 
- - 
+ - Internet encurta distâncias
+ - Comunicação é fundamental
+ - Foco ao trabalhar fora do "escritório"
+ - "Disciplina é liberdade"
  
 ### Perguntas
  - Para um iniciante em desenvolvimento quais seriam as skills necessárias ou desejáveis para entrar no mercado?
