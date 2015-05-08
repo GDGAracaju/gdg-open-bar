@@ -9,6 +9,7 @@
  - Rotina flexível
  - "Disciplina é liberdade"
  - Acordo Financeiro: CLT, PJ, Contrato ou cobrar por hora?
+ - Vantagens x "Desvantagens" - Do que você precisa estar ciente.
  
 ### Perguntas
  - Para um iniciante em desenvolvimento quais seriam as skills necessárias ou desejáveis para entrar no mercado?
