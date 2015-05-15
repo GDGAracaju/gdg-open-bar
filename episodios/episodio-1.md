@@ -1,5 +1,7 @@
 # Episódio 1
-## [Trabalho remoto ou no exterior] (https://plus.google.com/events/cqgctupl1cmg9a0pq51l2r3thdg)
+## Trabalho remoto ou no exterior
+
+[Evento](https://plus.google.com/events/cqgctupl1cmg9a0pq51l2r3thdg), [Vídeo no Youtube](https://www.youtube.com/watch?v=t_IOPxU86lk)
 
 ### Tópicos:
  - Internet encurta distâncias
