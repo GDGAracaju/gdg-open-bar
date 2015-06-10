@@ -7,9 +7,11 @@
  - Largar o emprego e investir na startup
  - Ter um escritório
  - Sociedade
+ - Parques tecnológicos, incubadoras, aceleradoras
  
 ### Perguntas
  - Começar sem investidor?
+ - Investimento familiar?
  - Devemos investir em uma startup que não será um serviço novo? Ex: lançar uma startup para streaming de vídeo/áudio (que já existem bons serviços no mercado).
  - Jurídico: como organizar a empresa?
  - 
