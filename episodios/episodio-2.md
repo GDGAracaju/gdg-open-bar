@@ -19,3 +19,4 @@
  - [Rocket Lawyer](https://www.rocketlawyer.com/)
  - [Incubadora e aceleradora](http://www.sebrae.com.br/sites/PortalSebrae/artigos/Entenda-a-diferen%C3%A7a-entre-incubadora-e-aceleradora)
  - http://www.grokpodcast.com/series/aceleradoras/
+ - http://www.wow.ac/wow2015/
