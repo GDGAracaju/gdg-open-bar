@@ -1,7 +1,7 @@
 # Episódio 2
 ## ...
 
-[Evento](https://plus.google.com/events/c5612khli0re3p0brq17duuh7dk), [Vídeo no Youtube](#)
+[Evento](https://plus.google.com/events/c5612khli0re3p0brq17duuh7dk), [Vídeo no Youtube](http://youtu.be/ypfAuW6H5Ws)
 
 ### Tópicos:
  - Largar o emprego e investir na startup
@@ -14,7 +14,6 @@
  - Investimento familiar?
  - Devemos investir em uma startup que não será um serviço novo? Ex: lançar uma startup para streaming de vídeo/áudio (que já existem bons serviços no mercado).
  - Jurídico: como organizar a empresa?
- - 
 
 ### Links:
  - [Rocket Lawyer](https://www.rocketlawyer.com/)
