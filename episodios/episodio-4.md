@@ -3,7 +3,7 @@
 
 [Enquete](https://www.facebook.com/groups/GDGAracaju/permalink/384661378400742/),
 [Evento](https://goo.gl/ZNnBXo), 
-[Vídeo no Youtube](#)
+[Vídeo no Youtube](https://www.youtube.com/watch?v=ZXBtlLyZNOI&feature=youtu.be)
 
 ### Tópicos:
  - Material Design
