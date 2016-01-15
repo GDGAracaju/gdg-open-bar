@@ -12,3 +12,4 @@ Inspirado no [Mesa de bar](https://github.com/erichideki/mesadebar).
  - [2 - Startups](https://github.com/GDGAracaju/gdg-open-bar/blob/master/episodios/episodio-2.md)
  - [3 - Valor de uma graduação](https://github.com/GDGAracaju/gdg-open-bar/blob/master/episodios/episodio-3.md)
  - [4 - Android](https://github.com/GDGAracaju/gdg-open-bar/blob/master/episodios/episodio-4.md)
+ - [5 - Futuro da Internet](https://github.com/GDGAracaju/gdg-open-bar/blob/master/episodios/episodio-5.md)
